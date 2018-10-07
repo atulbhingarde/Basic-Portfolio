@@ -7,8 +7,10 @@
     color: #4aaaa5;
     margin: 0px;
     line-height: 1.5;
+    
     background-image: url("../../assets/images/background.jpeg"); background-size: 100%;
     background-color: #cccccc;
+    font-size: 50%;
       }
   /*top banner headerdefining default header if empty*/
   Header {
@@ -85,7 +87,7 @@
    
   }
   /* core content is core image managemnt to alow float left in core box1 */
-  .coreContent {
+  .corecontent {
     float: left;
     padding: 0px;
     margin-right: 10px;
@@ -113,7 +115,7 @@
   }
   /* begin unique to contact page
   NameBox*/
-  .nameBox {
+  .namebox {
     width: 960px;
     height: 200px;
     background-color: white;
